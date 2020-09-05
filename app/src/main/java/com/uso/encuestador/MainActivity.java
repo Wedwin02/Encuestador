@@ -74,15 +74,15 @@ public class MainActivity extends AppCompatActivity {
                 String e = txbedad.getText().toString();
 
                 if(n.isEmpty()){
-                    txbNombre.setError("Este Campo no puede ser vacio.");
+                    txbNombre.setError("Campo requerido..");
                     retorno = false;
                 }
                 if(a.isEmpty()){
-                    txbApellido.setError("Este Campo no puede ser vacio.");
+                    txbApellido.setError("Campo requerido..");
                     retorno = false;
                 }
                 if(e.isEmpty()){
-                    txbedad.setError("Este Campo no puede ser vacio.");
+                    txbedad.setError("Campo requerido..");
                     retorno = false;
                 }
 
