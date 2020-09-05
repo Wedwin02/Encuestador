@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Encuestador</string>
+    <string name="encueta">Bienvenido!</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="edad">Edad:</string>
+    <string name="tipos">Tipos de Comidas:</string>
+    <string name="respreferido">Restaurante Preferido:</string>
+
+    <string name="pasta">Pastas</string>
+    <string name="carnes">Carnes</string>
+    <string name="Ensaladas">Ensaladas</string>
+    <string name="Enviar">Enviar</string>
+
+    <string name="rnombre">Nombre :</string>
+    <string name="rApellido">Apellido :</string>
+    <string name="rEdad">Edad :</string>
+
+    <string-array name="restaurantespresferidos">
+        <item>Pollo Campero</item>
+        <item>La Cueva</item>
+        <item>La casona</item>
+        <item>Pizza Hut</item>
+        <item>Burguer King</item>
+    </string-array>
+
+    <string name="Ctipos">Tipos de Comidas :</string>
+    <string name="Crestaurantes">Restaurantes Preferidos :</string>
+</resources>
